@@ -11,3 +11,5 @@
 [Mangayan - Find the square of a number.](https://github.com/AceNicoleMangayan/QA-Activity.git)
 
 [Agbon - Find the sum of two numbers.](https://github.com/GerarldAgbon/qa_sum.git)
+
+[Suan - Find the area of a square.](https://github.com/suanrichianreib/suan_areaofsquare.git)
