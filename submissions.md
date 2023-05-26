@@ -15,3 +15,5 @@
 [Descallar - Convert Fahrenheit to Celsius](https://github.com/descallar24/Fahrenheit-to-Celsius)
 
 [Suan - Find the area of a square.](https://github.com/suanrichianreib/suan_areaofsquare.git)
+
+[Daomar - Find the square of a number.](https://github.com/BM-Daomar/daomar_sqrofanmbr.git)
