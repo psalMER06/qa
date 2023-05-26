@@ -11,3 +11,6 @@
 [Mangayan - Find the square of a number.](https://github.com/AceNicoleMangayan/QA-Activity.git)
 
 [Agbon - Find the sum of two numbers.](https://github.com/GerarldAgbon/qa_sum.git)
+
+[Descallar - Convert Fahrenheit to Celsius](https://github.com/descallar24/Fahrenheit-to-Celsius)
+
