@@ -18,4 +18,8 @@
 
 [Sarsalijo - Find the difference of two numbers](https://github.com/LadyMaxineSarsalijo/Sarsalijo_UnitTesting.git)
 
+[Jamago - Find the area of a rectangle.](https://github.com/johnreyjamago/test_Area_Rectangle)
+
+[Rusiana - Find the area of a Parallelogram](https://github.com/MG-Rusiana/area_of_parallelogram)
+
 [Hamoc - Find the factorial of a number.](https://github.com/Meljohnzer/Factorial.git)
