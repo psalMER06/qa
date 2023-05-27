@@ -31,3 +31,5 @@
 [Pacana - Find the sum of two numbers](https://github.com/Rickne/Pacana-Find-the-sum-of-two-numbers.git)
 
 [Colis - Find the sum of two numbers](https://github.com/Joy5345/Colis-findthesum.git)
+
+[Madgugo - Find the square of a number](https://github.com/BonStudent/Magdugo_QA.git)
