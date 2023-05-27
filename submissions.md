@@ -24,4 +24,6 @@
 
 [Hamoc - Find the factorial of a number.](https://github.com/Meljohnzer/Factorial.git)
 
+[Daomar - Find the square of a number.](https://github.com/BM-Daomar/daomar_sqrofanmbr.git)
+
 [Ocampo - Find the product of two numbers](https://github.com/krishiaocampo/Multiplication_UnitTesting.git)
