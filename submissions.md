@@ -17,3 +17,5 @@
 [Suan - Find the area of a square.](https://github.com/suanrichianreib/suan_areaofsquare.git)
 
 [Sarsalijo - Find the difference of two numbers](https://github.com/LadyMaxineSarsalijo/Sarsalijo_UnitTesting.git)
+
+[Rusiana - Find the area of a Parallelogram](https://github.com/MG-Rusiana/area_of_parallelogram)
