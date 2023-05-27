@@ -29,3 +29,5 @@
 [Ocampo - Find the product of two numbers](https://github.com/krishiaocampo/Multiplication_UnitTesting.git)
 
 [Pacana - Find the sum of two numbers](https://github.com/Rickne/Pacana-Find-the-sum-of-two-numbers.git)
+
+[Colis - Find the sum of two numbers](https://github.com/Joy5345/Colis-findthesum.git)
