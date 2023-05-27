@@ -17,3 +17,5 @@
 [Suan - Find the area of a square.](https://github.com/suanrichianreib/suan_areaofsquare.git)
 
 [Sarsalijo - Find the difference of two numbers](https://github.com/LadyMaxineSarsalijo/Sarsalijo_UnitTesting.git)
+
+[Hamoc - Find the factorial of a number.](https://github.com/Meljohnzer/Factorial.git)
