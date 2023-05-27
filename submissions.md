@@ -23,3 +23,5 @@
 [Rusiana - Find the area of a Parallelogram](https://github.com/MG-Rusiana/area_of_parallelogram)
 
 [Hamoc - Find the factorial of a number.](https://github.com/Meljohnzer/Factorial.git)
+
+[Ocampo - Find the product of two numbers](https://github.com/krishiaocampo/Multiplication_UnitTesting.git)
