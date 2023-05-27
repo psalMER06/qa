@@ -35,3 +35,5 @@
 [Madgugo - Find the square of a number](https://github.com/BonStudent/Magdugo_QA.git)
 
 [Calumba - Find the difference of two numbers](https://github.com/CCharlen3/unitTest.git)
+
+[Valera - Find the quotient of two numbers](https://github.com/psalMER06/QA-activity.git)
