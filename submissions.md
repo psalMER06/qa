@@ -27,3 +27,5 @@
 [Daomar - Find the square of a number.](https://github.com/BM-Daomar/daomar_sqrofanmbr.git)
 
 [Ocampo - Find the product of two numbers](https://github.com/krishiaocampo/Multiplication_UnitTesting.git)
+
+[Pacana - Find the sum of two numbers](https://github.com/Rickne/Pacana-Find-the-sum-of-two-numbers.git)
