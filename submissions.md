@@ -23,3 +23,5 @@
 [Rusiana - Find the area of a Parallelogram](https://github.com/MG-Rusiana/area_of_parallelogram)
 
 [Hamoc - Find the factorial of a number.](https://github.com/Meljohnzer/Factorial.git)
+
+[Daomar - Find the square of a number.](https://github.com/BM-Daomar/daomar_sqrofanmbr.git)
