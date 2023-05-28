@@ -30,10 +30,12 @@
 
 [Pacana - Find the sum of two numbers](https://github.com/Rickne/Pacana-Find-the-sum-of-two-numbers.git)
 
-[Colis - Find the su)m of two numbers](https://github.com/Joy5345/Colis-findthesum.git)
+[Colis - Find the sum of two numbers](https://github.com/Joy5345/Colis-findthesum.git)
 
 [Madgugo - Find the square of a number](https://github.com/BonStudent/Magdugo_QA.git)
 
 [Calumba - Find the difference of two numbers](https://github.com/CCharlen3/unitTest.git)
+
+[MIRAL- Find the sum of two numbers] (https://github.com/miamiral/qa_activity.git)
 
 [Valera- Find the quotient of two numbers] (https://github.com/psalMER06/QA-activity.git)
